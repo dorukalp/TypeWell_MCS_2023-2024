@@ -63,7 +63,7 @@ I have drafted an expanded version ready for submission to a journal. I shall ad
 
 ## Help
 
-It is a basic code, but if you wish to get in touch welcome to email me at dorukalp.edu@gmail.com. Please note, it may be a few days before I can respond.
+It is a basic code, but if you wish to get in touch, welcome to email me at dorukalp.edu at gmail.com. Please note, it may be a few days before I can respond.
 
 ## Authors
 
@@ -74,9 +74,13 @@ Doruk Alp, PhD
 * 0.1
     * Initial Release
 
-## License
+## LICENSE
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://github.com/dorukalp/TypeWell_MCS_2023-2024/blob/main/LICENSE) - see the LICENSE file for details
+
+## DISCLAIMER
+
+You can read more in the LICENSE and DISCLAIMER files. In brief, I provide the code in good faith. It represents best of my knowledge. But it is provided as-is, without any warranty or guaranty.
 
 ## Acknowledgments
 
